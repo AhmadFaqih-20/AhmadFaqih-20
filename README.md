@@ -12,6 +12,8 @@
 
 <img data-importer="image" align="right" height="185" src="https://i.imgflip.com/65efzo.gif"  />
 
+<br clear="both">
+
 ###
 
 <div data-importer="profile-views" align="center">
@@ -59,9 +61,9 @@
 
 <br clear="both">
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/ahmadfm_">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ahmadfm_&count=7&unique=true" alt="Spotify recently played"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/31rocrobuuu5no5uoijgct5qb2vy">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31rocrobuuu5no5uoijgct5qb2vy" alt="Spotify recently played" />
   </a>
 </div>
 
